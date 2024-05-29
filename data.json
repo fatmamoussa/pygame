@@ -1,0 +1,77 @@
+{
+	"quiz": [
+	  {
+		"category": "Culture",
+		"question": "Qui a peint la Mona Lisa?",
+		"options": ["Van Gogh", "Picasso", "Leonardo da Vinci", "Rembrandt"],
+		"answer": 3
+	  },
+	  {
+		"category": "Culture",
+		"question": "Quel artiste a peint 'Les Nymphéas'?",
+		"options": ["Van Gogh", "Picasso", "Monet", "Cézanne"],
+		"answer": 3
+	  },
+	  {
+		"category": "Culture",
+		"question": "Qui a écrit 'Les Misérables'?",
+		"options": ["Victor Hugo", "Jules Verne", "Alexandre Dumas", "Émile Zola"],
+		"answer": 1
+	  },
+	  {
+		"category": "Culture",
+		"question": "Qui a sculpté 'Le Penseur'?",
+		"options": ["Rodin", "Michel-Ange", "Donatello", "Bernini"],
+		"answer": 1
+	  },
+	  {
+		"category": "Culture",
+		"question": "Quelle ville est associée au Manneken-Pis?",
+		"options": ["Paris", "Bruxelles", "Amsterdam", "Londres"],
+		"answer": 2
+	  },
+	  {
+		"category": "Culture",
+		"question": "Qui a composé 'La Flûte enchantée'?",
+		"options": ["Mozart", "Beethoven", "Bach", "Chopin"],
+		"answer": 1
+	  },
+	  {
+		"category": "Sport",
+		"question": "Quel pays a remporté la Coupe du Monde FIFA 2018?",
+		"options": ["Allemagne", "Brésil", "France", "Argentine"],
+		"answer": 3
+	  },
+	  {
+		"category": "Sport",
+		"question": "Qui détient le record du monde du 100 mètres?",
+		"options": ["Usain Bolt", "Carl Lewis", "Justin Gatlin", "Yohan Blake"],
+		"answer": 1
+	  },
+	  {
+		"category": "Sport",
+		"question": "Dans quel sport utilise-t-on un 'putter'?",
+		"options": ["Golf", "Baseball", "Football", "Tennis"],
+		"answer": 1
+	  },
+	  {
+		"category": "Sport",
+		"question": "Quel joueur de basket-ball est surnommé 'Le Roi'?",
+		"options": ["Michael Jordan", "LeBron James", "Kobe Bryant", "Shaquille O'Neal"],
+		"answer": 2
+	  },
+	  {
+		"category": "Sport",
+		"question": "Combien de trous y a-t-il dans un parcours de golf standard?",
+		"options": ["12", "18", "24", "30"],
+		"answer": 2
+	  },
+	  {
+		"category": "Sport",
+		"question": "Quel pays a remporté la Coupe du Monde de Rugby 2019?",
+		"options": ["Nouvelle-Zélande", "Afrique du Sud", "Angleterre", "Australie"],
+		"answer": 2
+	  }
+	]
+  }
+  
